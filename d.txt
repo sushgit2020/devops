@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+
+w d file created in branch b1
+=======
 where is d now?
+>>>>>>> b1
