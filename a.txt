@@ -4,10 +4,15 @@ i pressed to edit
 
 changed again
 
-<<<<<<< HEAD
+new test by commitingng here
+
+trying without commit
+
+now push to git  
+
 changed in branch b1
 
 change in branch b1-again 
-=======
+
 new test by commitingng here  
->>>>>>> b1
+
