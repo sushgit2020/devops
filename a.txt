@@ -2,4 +2,8 @@ initial
 
 i pressed to edit
 
-changed again 
+changed again
+
+changed in branch b1
+
+change in branch b1-again 
