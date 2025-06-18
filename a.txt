@@ -6,4 +6,6 @@ changed again
 
 new test by commitingng here
 
-trying without commit  
+trying without commit
+
+now push to git  
